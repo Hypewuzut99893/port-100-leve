@@ -1,0 +1,32 @@
+{
+	"storyName": "ski-ba-bop-ba-dop-bop",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "black",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"scatman",
+			"scatman",
+			[
+				240,
+				140,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"scatman",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "scatcat"
+}
